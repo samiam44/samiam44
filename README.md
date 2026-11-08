@@ -10,7 +10,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
+- **[Threat Hunt: PHP2Shell – The Hartwell Breach (Sentinel / KQL)](https://github.com/samiam44/Threat-Hunt-Hartwell-Breach)**
+
+<!-- In progress, hidden until complete:
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+-->
 
 <hr/>
 
