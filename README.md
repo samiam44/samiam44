@@ -36,6 +36,19 @@ Hunted a web server compromise on the Log(N) Pacific cyber range from raw logs a
 
 ---
 
+### 🤖 [AI Agent Scope Guard](https://github.com/samiam44/AI-Agent-Scope-Guard)
+
+[![AI Governance](https://img.shields.io/badge/AI_Governance-3FB0BF?style=flat-square&labelColor=0d1117)](https://github.com/samiam44/AI-Agent-Scope-Guard)
+[![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-3FB0BF?style=flat-square&labelColor=0d1117)](https://github.com/samiam44/AI-Agent-Scope-Guard)
+[![Python](https://img.shields.io/badge/Python-3FB0BF?style=flat-square&labelColor=0d1117)](https://github.com/samiam44/AI-Agent-Scope-Guard)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-3FB0BF?style=flat-square&labelColor=0d1117)](https://github.com/samiam44/AI-Agent-Scope-Guard)
+
+Designed the guardrails for an AI agent I use as a research assistant in authorized bug bounty work, then built them with an AI coding agent. Started from a threat model of what goes wrong when an AI can run tools: out-of-scope targeting, destructive actions, prompt injection from page content. Mapped a control to each. Scope is enforced in code by a fail-closed hook that checks every tool call against an explicit allowlist before it runs; risky actions go through a human approval gate. A review of the first version found two bypasses, both fixed and covered by 15 tests, and the write-up is clear about which controls are enforced and which depend on the model following policy.
+
+**[View Project →](https://github.com/samiam44/AI-Agent-Scope-Guard)**
+
+---
+
 ### 🛡️ [Vulnerability Management Program](https://github.com/samiam44/Vulnerability-Management-Program)
 
 [![Tenable Nessus](https://img.shields.io/badge/Tenable_Nessus-3FB0BF?style=flat-square&labelColor=0d1117)](https://github.com/samiam44/Vulnerability-Management-Program)
