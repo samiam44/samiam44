@@ -14,6 +14,8 @@
 
 </div>
 
+I love tackling complex problems through hands-on work, from building a vulnerability management program to hunting attackers through raw logs in Microsoft Sentinel. Every project here is something I built, broke, or investigated myself. Feel free to dig in.
+
 ---
 
 ## Projects
