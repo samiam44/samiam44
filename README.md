@@ -8,7 +8,8 @@
 
 <div align="center">
 
-![WGU](https://img.shields.io/badge/WGU-B.S._Cybersecurity_%26_Information_Assurance-3FB0BF?style=flat-square&labelColor=0d1117)<br/>
+![WGU M.S.](https://img.shields.io/badge/WGU_M.S.-Cybersecurity_%26_Information_Assurance_(In_Progress)-3FB0BF?style=flat-square&labelColor=0d1117)<br/>
+![WGU B.S.](https://img.shields.io/badge/WGU_B.S.-Cybersecurity_%26_Information_Assurance-3FB0BF?style=flat-square&labelColor=0d1117)<br/>
 ![Certifications](https://img.shields.io/badge/Certifications-CEH_%7C_CySA%2B_%7C_Project%2B_%7C_ITIL_4-3FB0BF?style=flat-square&labelColor=0d1117)
 ![Cybersecurity Analyst Intern](https://img.shields.io/badge/Cybersecurity_Analyst_Intern-Log(N)_Pacific-3FB0BF?style=flat-square&labelColor=0d1117)
 
@@ -63,6 +64,15 @@ Wrote PowerShell scripts that bring Windows 11 into compliance with DISA STIG co
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 -->
+
+---
+
+## Currently Learning
+
+![Threat Hunt Reporting](https://img.shields.io/badge/Threat_Hunt_Reporting-PEAK_%2F_TaHiTI-3FB0BF?style=flat-square&labelColor=0d1117)<br/>
+![Cloud Security](https://img.shields.io/badge/Cloud_Security-WGU_D485-3FB0BF?style=flat-square&labelColor=0d1117)<br/>
+![Cybersecurity Architecture & Engineering](https://img.shields.io/badge/Cybersecurity_Architecture_%26_Engineering-WGU%2C_up_next-3FB0BF?style=flat-square&labelColor=0d1117)<br/>
+![CompTIA SecurityX](https://img.shields.io/badge/CompTIA_SecurityX-Exam_prep-3FB0BF?style=flat-square&labelColor=0d1117)
 
 ---
 
